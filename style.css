@@ -1,0 +1,4 @@
+thead > tr:hover{
+    background-color: red;
+    color: white;
+}
